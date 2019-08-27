@@ -1,0 +1,176 @@
+{
+	"daily_menus": [
+		{
+			"daily_menu": {
+				"daily_menu_id": "20551002",
+				"start_date": "2019-08-27 00:00:00",
+				"end_date": "2019-08-27 23:59:59",
+				"name": "",
+				"dishes": [
+					{
+						"dish": {
+							"dish_id": "696020878",
+							"name": "Polévky",
+							"price": ""
+						}
+					},
+					{
+						"dish": {
+							"dish_id": "696020879",
+							"name": "0,33l  Gulášová      ",
+							"price": "29 Kč"
+						}
+					},
+					{
+						"dish": {
+							"dish_id": "696020880",
+							"name": "0,33l Hovězí vývar s masem a zeleninou      ",
+							"price": "29 Kč"
+						}
+					},
+					{
+						"dish": {
+							"dish_id": "696020881",
+							"name": "Hlavní jídla",
+							"price": ""
+						}
+					},
+					{
+						"dish": {
+							"dish_id": "696020882",
+							"name": "150g Hovězí pečeně na česneku s listovým špenátem a bramborovým knedlíkem      ",
+							"price": "109 Kč"
+						}
+					},
+					{
+						"dish": {
+							"dish_id": "696020883",
+							"name": "250g Šunkofleky s okurkovým salákem      ",
+							"price": "119 Kč"
+						}
+					},
+					{
+						"dish": {
+							"dish_id": "696020884",
+							"name": "250g Hříbkové rizoto z arborio rýže sypané parmezánem      ",
+							"price": "129 Kč"
+						}
+					},
+					{
+						"dish": {
+							"dish_id": "696020885",
+							"name": "170g Kuřecí prsa plněná čedarem a šunkou se šťouchaným bramborem      ",
+							"price": "129 Kč"
+						}
+					},
+					{
+						"dish": {
+							"dish_id": "696020886",
+							"name": "150g Hovězí štěpánská pečeně s dušenou rýží      ",
+							"price": "109 Kč"
+						}
+					},
+					{
+						"dish": {
+							"dish_id": "696020887",
+							"name": "Menu Polévka, hovězí na česneku , dezert      ",
+							"price": "129 Kč"
+						}
+					},
+					{
+						"dish": {
+							"dish_id": "696020888",
+							"name": "Možná výměna dezertu za malý zeleninový salát-nahlásit obsluze při objednávce.",
+							"price": ""
+						}
+					},
+					{
+						"dish": {
+							"dish_id": "696020889",
+							"name": "Saláty",
+							"price": ""
+						}
+					},
+					{
+						"dish": {
+							"dish_id": "696020890",
+							"name": "300g Baby špenát s rukolou, pancettou, granátovým jablkem a bylinkovými toasty      ",
+							"price": "149 Kč"
+						}
+					},
+					{
+						"dish": {
+							"dish_id": "696020891",
+							"name": "150g Malý míchaný salát      ",
+							"price": "39 Kč"
+						}
+					},
+					{
+						"dish": {
+							"dish_id": "696020892",
+							"name": "Pečivo       ",
+							"price": "15 Kč"
+						}
+					},
+					{
+						"dish": {
+							"dish_id": "696020893",
+							"name": "Dezert",
+							"price": ""
+						}
+					},
+					{
+						"dish": {
+							"dish_id": "696020894",
+							"name": "Raffaello řez      ",
+							"price": "29 Kč"
+						}
+					},
+					{
+						"dish": {
+							"dish_id": "696020895",
+							"name": "Pivo Zvýhodněná cena piva k polední nabídce",
+							"price": ""
+						}
+					},
+					{
+						"dish": {
+							"dish_id": "696020896",
+							"name": "0,3l Světlé, řezané, černé      ",
+							"price": "29 Kč"
+						}
+					},
+					{
+						"dish": {
+							"dish_id": "696020897",
+							"name": "0,5l Světlé, řezané, černé, nealko      ",
+							"price": "39 Kč"
+						}
+					},
+					{
+						"dish": {
+							"dish_id": "696020898",
+							"name": "Limo",
+							"price": ""
+						}
+					},
+					{
+						"dish": {
+							"dish_id": "696020899",
+							"name": "0,3l Domácí limonáda dle denní nabídky      ",
+							"price": "29 Kč"
+						}
+					},
+					{
+						"dish": {
+							"dish_id": "696020900",
+							"name": "0,5l Točená malinovka      ",
+							"price": "29 Kč"
+						}
+					}
+				]
+			}
+		}
+	],
+	"status": "success"
+}
